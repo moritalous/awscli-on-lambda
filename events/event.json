@@ -1,0 +1,4 @@
+{
+    "command" : "aws s3 ls"
+}
+  
